@@ -9,7 +9,8 @@
 
 <h3 align="left">🧑🏻‍💻 About Me</h3>
 
-Welcome to my page! I'm Andrew Xu from Rockville, Maryland. I am currently an undergraduate at the University of Maryland, College Park studying a Double Major of Computer Science and Economics with a minor in Robotics and Autonomous Systems.
+Welcome to my page! I'm Andrew Xu from Rockville, Maryland. I am currently an undergraduate at the University of Maryland, College Park studying a Double Major of Computer Science and Economics with a minor in Robotics and Autonomous Systems. In this GitHub, you'll find projects I worked on that show my various skills. Feel free to reach out by phone (240-789-3987) or email (andyxu55@terpmail.umd.edu) if you have any questions.
+
 
 ### ❗️ Facts about Me
 - I aspire to be a Machine Learning Engineer or Software Engineer.
@@ -17,8 +18,6 @@ Welcome to my page! I'm Andrew Xu from Rockville, Maryland. I am currently an un
 - In my free time, I listen to music, play sports (Football, Basketball, Badminton), and learn more about Computer Science.
   
 If you would like to learn more, click [here](https://github.com/AndrewXu55/AndrewXu55/blob/main/Andrew_Xu_Resume.pdf) to see my resume.
-
-In this, Github, you'll find projects I worked on that show my skills.
 
 ### Open source projects
 <table>
