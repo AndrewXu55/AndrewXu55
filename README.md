@@ -15,6 +15,7 @@ Welcome to my page! I'm Andrew Xu from Rockville, Maryland. I am currently an un
 - I aspire to be a Machine Learning Engineer or Software Engineer.
 - I'm currently learning various technologies in Computer Science through both coursework and self-exploration.
 - In my free time, I listen to music, play sports (Football, Basketball, Badminton), and learn more about Computer Science.
+  
 If you would like to learn more, click [here](https://github.com/AndrewXu55/AndrewXu55/blob/main/Andrew_Xu_Resume.pdf) to see my resume.
 
 In this, Github, you'll find projects I worked on that show my skills.
