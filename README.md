@@ -55,7 +55,7 @@ In this, Github, you'll find projects I worked on that show my skills.
   </tbody>
 </table>
 
-### 🛠 Language and tools
+### 🛠 Language and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
