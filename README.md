@@ -35,7 +35,8 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
       		<td>Create an API and Frontend that processes OpenFDA Data based on user filters. </td>
     	</tr>
 		<tr>
-      		<td><a href="https://github.com/AndrewXu55/Spectro-Data-Analyzer"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      		<td><a href="https://github.com/AndrewXu55/Spectro-Data-Analyzer"><b>Spectroscopic Data Analyzer
+</b></a></td>
       		<td>Python (NumPy, Tkinter, and Matplotlib), MATLAB</td>
       		<td>Conduct Spectroscopic Photon Counting Analysis with a built-in UI</td>
     	</tr>
