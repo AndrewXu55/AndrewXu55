@@ -31,13 +31,13 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
   	<tbody>
     	<tr>
       		<td><a href="https://github.com/AndrewXu55/OpenFDA-Recall_API"><b>OpenFDA Recall API</b></a></td>
-      		<td>Python (FastAPI, Streamlit), Docker</td>
-      		<td>Create an API that could process OpenFDA Data based on user input.</td>
+      		<td>Python (FastAPI and Streamlit), Docker</td>
+      		<td>Create an API and Frontend that processes OpenFDA Data based on user filters. </td>
     	</tr>
 		<tr>
-      		<td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      		<td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      		<td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      		<td><a href="https://github.com/AndrewXu55/Spectro-Data-Analyzer"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      		<td>Python (NumPy, Tkinter, and Matplotlib), MATLAB</td>
+      		<td>Conduct Spectroscopic Photon Counting Analysis with a built-in UI</td>
     	</tr>
 	</tbody>
 </table>
