@@ -1,5 +1,3 @@
-###
-
 <h1 align="center">Andrew Xu</h1>
 
 ###
@@ -22,7 +20,7 @@ Welcome to my page! I'm Andrew Xu from Rockville, Maryland. I am currently an un
 
 In this, Github, you'll find projects I worked on.
 
-🛠 Language and tools
+### 🛠 Language and tools
 
 ###
 
