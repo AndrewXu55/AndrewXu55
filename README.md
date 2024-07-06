@@ -92,7 +92,7 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 </div>
 
 If you have any more questions feel free to reach out!
-- 📞 **phone:** <a href="tel:+12407893987">(240) 789-3987</a>
+- 📞 **phone:** <a href="tel:+12407893987"> (240) 789-3987</a>
 - ✉️ **email:** <a href="andyxu55@terpmail.umd.edu">andyxu55@terpmail.umd.edu</a>
 
 ### 🔥   My Stats :
