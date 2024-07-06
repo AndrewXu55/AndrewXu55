@@ -13,7 +13,8 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Andrew Xu from Rockville, Maryland. I am currently an undergraduate at the University of Maryland, College Park studying a Double Major of Computer Science and Economics with a minor in Robotics and Autonomous Systems.
+  <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
