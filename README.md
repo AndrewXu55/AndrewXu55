@@ -9,7 +9,7 @@
 
 <h3 align="left">🧑🏻‍💻 About Me</h3>
 
-Welcome to my page! I'm Andrew Xu from Rockville, Maryland. I am currently an undergraduate at the University of Maryland, College Park studying a Double Major of Computer Science and Economics with a minor in Robotics and Autonomous Systems. In this GitHub, you'll find projects I worked on that show my various skills. Feel free to reach out by 📞 **phone:** <a href="tel:+12407893987">(240) 789-3987</a> or  ✉️ **email:** <a href="andyxu55@terpmail.umd.edu">andyxu55@terpmail.umd.edu</a> if you have any questions.
+Welcome to my page! I'm Andrew Xu from Rockville, Maryland. I am currently an undergraduate at the University of Maryland, College Park studying a Double Major of Computer Science and Economics with a minor in Robotics and Autonomous Systems. In this GitHub, you'll find projects I worked on that show my various skills.
 
 
 ### ❗️ Facts about Me
@@ -91,16 +91,12 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-###
+If you have any more questions feel free to reach out!
+- 📞 **phone:** <a href="tel:+12407893987">(240) 789-3987</a>
+- ✉️ **email:** <a href="andyxu55@terpmail.umd.edu">andyxu55@terpmail.umd.edu</a>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 🔥   My Stats :
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AndrewXu55&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
