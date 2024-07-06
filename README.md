@@ -19,7 +19,7 @@ Welcome to my page! I'm Andrew Xu from Rockville, Maryland. I am currently an un
   
 If you would like to learn more, click [here](https://github.com/AndrewXu55/AndrewXu55/blob/main/Andrew_Xu_Resume.pdf) to see my resume.
 
-### 🧑🏻‍💻 Open source projects
+### 🧑🏻‍💻 Open Source Projects
 <table>
 	<thead align="center">
 		<tr border: none;>
