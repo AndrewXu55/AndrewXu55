@@ -15,8 +15,8 @@
   <br>- 💻 I aspire to be a Machine Learning Engineer or Software Engineer.
   <br>- 📚 I'm currently learning various technologies in Computer Science.
   <br>- ⚡ In my free time, I listen to music, play sports (Football, Basketball, Badminton), and learn more about Computer Science.
-</p>
 If you would like to learn more, click [here](https://github.com/AndrewXu55/AndrewXu55/blob/main/Andrew_Xu_Resume.pdf) to see my resume.
+</p>
 
 In this, Github, you'll find projects I worked on.
 
