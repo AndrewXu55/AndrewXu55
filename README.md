@@ -6,8 +6,38 @@
 
 <p>
   <a href="https://github.com/AndrewXu55" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/andrewyexu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AndrewXu55/AndrewXu55/blob/main/Andrew_Xu_Resume.pdf" target="_blank">
+  <a href="https://www.linkedin.com/in/andrewyexu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Button</title>
+    <style>
+        .resume-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            font-weight: bold;
+            color: white;
+            background-color: #007BFF;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .resume-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://github.com/AndrewXu55/AndrewXu55/blob/main/Andrew_Xu_Resume.pdf" target="_blank" class="resume-button">
+        Resume
+    </a>
+</body>
+</html>
+
       Resume
   </a>
 </p>
