@@ -7,12 +7,12 @@
 	<a href="https://github.com/AndrewXu55" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
-<h3 align="left"> 🧑🏻 About Me</h3>
+<h2 align="left"> 🧑🏻 About Me</h2>
 
 Welcome to my page! I'm Andrew Xu from Rockville, Maryland. I am currently an undergraduate at the University of Maryland, College Park studying a Double Major in Computer Science and Economics with a minor in Robotics and Autonomous Systems. In this GitHub, you'll find projects I worked on that show my various skills.
 
 
-### ❗️ Facts about Me
+## ❗️ Facts about Me
 - I aspire to be a Machine Learning Engineer or Software Engineer.
 - I'm currently learning various technologies in Computer Science through both coursework and self-exploration.
 - In my free time, I listen to music, play sports (Football, Basketball, Badminton) and learn more about Computer Science.
