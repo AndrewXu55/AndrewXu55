@@ -23,16 +23,16 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 <table>
 	<thead align="center">
 		<tr border: none;>
-			<td><b> Project Name </b></td>
-	      		<td><b> Technologies </b></td>
-	      		<td><b> Description </b></td>
+			<th style="text-align: center;"><b> Project Name </b></th>
+	      		<th><b> Technologies </b></th>
+	      		<th><b> Description </b></th>
 	    	</tr>
   	</thead>
   	<tbody>
 		<tr>
 	      		<td>
 					<a href="https://github.com/AndrewXu55/Vehicular-Insurance-Fraud-Detection-Project">
-						<b class="centered">
+						<b>
 							Detecting Fraudulent Car Insurance Claims using Images
 						</b>
 					</a>
