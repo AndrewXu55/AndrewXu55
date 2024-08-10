@@ -23,7 +23,7 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 <table>
 	<thead align="center">
 		<tr border: none;>
-			<td class="centered"><b> Project Name </b></td>
+			<td><b> Project Name </b></td>
 	      		<td><b> Technologies </b></td>
 	      		<td><b> Description </b></td>
 	    	</tr>
@@ -32,7 +32,7 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 		<tr>
 	      		<td>
 					<a href="https://github.com/AndrewXu55/Vehicular-Insurance-Fraud-Detection-Project">
-						<b>
+						<b class="centered">
 							Detecting Fraudulent Car Insurance Claims using Images
 						</b>
 					</a>
