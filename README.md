@@ -67,8 +67,44 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 	</tbody>
 </table>
 
-### 🛠 Language and Tools I'm Familiar With:
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠 Languages and Tools 
+<div>
+
+### Languages:
+| Python3 | C | JS | Solidity | GO |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
+
+  
+
+### Best frameworks and main libraries for Python3:
+
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+
+
+
+### My tools for Data Manipulation & Visualisation:
+
+| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matpltlib |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
+
+  
+### Environments, Testing, Other:
+
+| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat | Kafka |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="55" height="55"/>|
+
+
+### OS:
+
+| Linux | Ubuntu | Kali |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+
 
 If you have any more questions, feel free to reach out!
 - 📞 **phone:** <a href="tel:+12407893987"> (240) 789-3987</a>
