@@ -23,10 +23,10 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 <table>
 	<thead align="center">
 		<tr border: none;>
-			<td><b> Project Name </b></td>
-      		<td><b> Technologies </b></td>
-      		<td><b> Description </b></td>
-    	</tr>
+			<td class="centered"><b> Project Name </b></td>
+	      		<td><b> Technologies </b></td>
+	      		<td><b> Description </b></td>
+	    	</tr>
   	</thead>
   	<tbody>
 		<tr>
