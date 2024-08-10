@@ -23,7 +23,7 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 <table>
 	<thead align="center">
 		<tr border: none;>
-			<th style="text-align: center;"><b> Project Name </b></th>
+			<th><b> Project Name </b></th>
 	      		<th><b> Technologies </b></th>
 	      		<th><b> Description </b></th>
 	    	</tr>
@@ -39,8 +39,8 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 				</td>
 	      		<td>Python (Tensorflow and Flask)</td>
 	      		<td>
-					Trained and optimized a convolutional neural network in Tensorflow to detect fraudulent insurance claims from vehicle damage images, achieving an accuracy of 0.893
-				</td>
+				Trained and optimized a convolutional neural network in Tensorflow to detect fraudulent insurance claims from vehicle damage images, achieving an accuracy of 0.893
+			</td>
 	    	</tr>
 	    	<tr>
 	      		<td>
