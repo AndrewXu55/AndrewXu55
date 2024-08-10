@@ -37,7 +37,7 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 						</b>
 					</a>
 				</td>
-	      		<td>Python (Tensorflow and Flask)</td>
+	      		<td>Tensorflow, Flask</td>
 	      		<td>
 				Trained and optimized a convolutional neural network in Tensorflow to detect fraudulent insurance claims from vehicle damage images, achieving an accuracy of 0.893
 			</td>
@@ -50,7 +50,7 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 					</b>
 				</a>
 			</td>
-	      		<td>Python (FastAPI and Streamlit), Docker</td>
+	      		<td>FastAPI, Streamlit, Docker</td>
 	      		<td>Create an API and Frontend that processes OpenFDA Data based on user filters. </td>
 	    	</tr>
 		<tr>
@@ -61,7 +61,7 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 					</b>
 				</a>
 			</td>
-	      		<td>Python (NumPy, Tkinter, and Matplotlib), MATLAB</td>
+	      		<td>NumPy, Tkinter, Matplotlib, MATLAB</td>
 	      		<td>Conduct Spectroscopic Photon Counting Analysis with a built-in UI</td>
 	    	</tr>
 	</tbody>
