@@ -68,7 +68,7 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 </table>
 
 ## 🛠 Languages and Tools 
-In the following section, you will find various languages and tools I am proficient in.
+In the following section, you will find various languages, tools, and applications in which I am proficient.
 
 
 ### Languages:
