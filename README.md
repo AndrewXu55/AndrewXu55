@@ -86,7 +86,7 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
 ### My tools for Data Manipulation & Visualisation:
 
 | Conda | Jupyter | Plotly | Matpltlib |
-|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
 
   
