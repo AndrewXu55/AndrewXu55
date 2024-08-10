@@ -29,17 +29,41 @@ If you would like to learn more, click [here](https://github.com/AndrewXu55/Andr
     	</tr>
   	</thead>
   	<tbody>
-    	<tr>
-      		<td><a href="https://github.com/AndrewXu55/OpenFDA-Recall_API"><b>OpenFDA Recall API</b></a></td>
-      		<td>Python (FastAPI and Streamlit), Docker</td>
-      		<td>Create an API and Frontend that processes OpenFDA Data based on user filters. </td>
-    	</tr>
 		<tr>
-      		<td><a href="https://github.com/AndrewXu55/Spectro-Data-Analyzer"><b>Spectroscopic Data Analyzer
-</b></a></td>
-      		<td>Python (NumPy, Tkinter, and Matplotlib), MATLAB</td>
-      		<td>Conduct Spectroscopic Photon Counting Analysis with a built-in UI</td>
-    	</tr>
+	      		<td>
+					<a href="https://github.com/AndrewXu55/Vehicular-Insurance-Fraud-Detection-Project">
+						<b>
+							Detecting Fraudulent Car Insurance Claims using Images
+						</b>
+					</a>
+				</td>
+	      		<td>Python (Tensorflow and Flask)</td>
+	      		<td>
+					Trained and optimized a convolutional neural network in Tensorflow to detect fraudulent insurance claims from vehicle damage images, achieving an accuracy of 0.893
+				</td>
+	    	</tr>
+	    	<tr>
+	      		<td>
+				<a href="https://github.com/AndrewXu55/OpenFDA-Recall_API">
+					<b>
+						OpenFDA Recall API
+					</b>
+				</a>
+			</td>
+	      		<td>Python (FastAPI and Streamlit), Docker</td>
+	      		<td>Create an API and Frontend that processes OpenFDA Data based on user filters. </td>
+	    	</tr>
+		<tr>
+	      		<td>
+				<a href="https://github.com/AndrewXu55/Spectro-Data-Analyzer">
+					<b>
+						Spectroscopic Data Analyzer
+					</b>
+				</a>
+			</td>
+	      		<td>Python (NumPy, Tkinter, and Matplotlib), MATLAB</td>
+	      		<td>Conduct Spectroscopic Photon Counting Analysis with a built-in UI</td>
+	    	</tr>
 	</tbody>
 </table>
 
